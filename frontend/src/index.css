@@ -6,3 +6,8 @@ body {
     background: #0f0f10;
     color: #fff;
 }
+
+input,
+textarea {
+    color: #000;
+}
